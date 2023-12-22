@@ -1,6 +1,6 @@
 # Central JS Docs
 To install Central JS go to releases in the right hand side and click Central JS. You can then download the uncompressed version (.js) or the compressed version (.min.js). 
-You can also download from our website [CentralJS](youtube.com). After you have the file go to the head part of your html doc and place it somewhere in it.
+You can also download from our website [CentralJS](central-web-kit.rf.gd). After you have the file go to the head part of your html doc and place it somewhere in it.
 
 <br><br>
 There are currently 4 functions in Central JS:
